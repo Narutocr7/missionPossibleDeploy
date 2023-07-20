@@ -64,6 +64,6 @@ module.exports = {
             <!-- Customization goes here -->
         </billing>`,
   },
-},`gatsby-plugin-netlify`,
+},`gatsby-plugin-netlify`,`gatsby-background-image`,
 ],
 }
