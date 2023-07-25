@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Heading from '../Reusable/Heading'
-import Img from 'gatsby-image'
 
 export default class Coursecart extends Component {
     constructor(props){
